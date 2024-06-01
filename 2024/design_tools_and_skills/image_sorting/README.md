@@ -17,6 +17,36 @@ This project involves collecting image data in a JSON file and displaying it. Th
 ### Screenshot 5
 ![Screenshot 5](https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20222516.png)
 
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+<div style="flex: 1; margin: 10px;">
+  <h3>Screenshot 1</h3>
+  <img src="https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20162738.png?raw=true" alt="Screenshot 1" style="width: 100%;">
+</div>
+
+<div style="flex: 1; margin: 10px;">
+  <h3>Screenshot 2</h3>
+  <img src="https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20163323.png" alt="Screenshot 2" style="width: 100%;">
+</div>
+
+<div style="flex: 1; margin: 10px;">
+  <h3>Screenshot 3</h3>
+  <img src="https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20163702.png" alt="Screenshot 3" style="width: 100%;">
+</div>
+
+<div style="flex: 1; margin: 10px;">
+  <h3>Screenshot 4</h3>
+  <img src="https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20163712.png" alt="Screenshot 4" style="width: 100%;">
+</div>
+
+<div style="flex: 1; margin: 10px;">
+  <h3>Screenshot 5</h3>
+  <img src="https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20222516.png" alt="Screenshot 5" style="width: 100%;">
+</div>
+
+</div>
 ## Code Snippets
 
 ### Part 1: Collecting Image Data
