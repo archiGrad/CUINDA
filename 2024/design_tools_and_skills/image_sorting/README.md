@@ -3,7 +3,7 @@
 This project involves collecting image data in a JSON file and displaying it. The following screenshots demonstrate the process:
 
 ### Screenshot 1
-![Screenshot 1](Screenshot 2024-06-01 162738.png)
+![Screenshot 2024-06-01 162738.png](Screenshot 2024-06-01 162738.png)
 
 ### Screenshot 2
 ![Screenshot 2](Screenshot 2024-06-01 163323.png)
