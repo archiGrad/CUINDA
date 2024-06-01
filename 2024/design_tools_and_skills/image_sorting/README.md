@@ -1,6 +1,6 @@
 # Houdini Image Sorting
 
-This project involves collecting image data in a JSON file and displaying it. The following screenshots demonstrate the process:
+This project involves collecting image data in a JSON file and displaying it according to its luminance value. the higher teh luminance value, the higher it is in the sort.
 
 
 ### Screenshot 1
