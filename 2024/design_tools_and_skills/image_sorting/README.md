@@ -3,7 +3,7 @@
 This project involves collecting image data in a JSON file and displaying it. The following screenshots demonstrate the process:
 
 ### Screenshot 1
-![Screenshot 2024-06-01 162738.png](Screenshot 2024-06-01 162738.png)
+![Screenshot 2024-06-01 162738.png]([Screenshot 2024-06-01 162738.png](https://github.com/archiGrad/CUINDA/blob/main/2024/design_tools_and_skills/image_sorting/Screenshot%202024-06-01%20162738.png))
 
 ### Screenshot 2
 ![Screenshot 2](Screenshot 2024-06-01 163323.png)
